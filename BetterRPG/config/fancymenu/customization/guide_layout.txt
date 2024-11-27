@@ -1,0 +1,264 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = guide
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1732645936719
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:b3b43767-9425-4cf3-9d06-52ecabaa8728-1732645918186] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 980ab52b-808f-4af3-998b-7f281a43ffcb-1732641593604
+  [executable_action_instance:050423da-da41-4157-9eb6-6c7528579ea8-1732645921817][action_type:opengui] = objectives
+  [executable_block:980ab52b-808f-4af3-998b-7f281a43ffcb-1732641593604][type:generic] = [executables:050423da-da41-4157-9eb6-6c7528579ea8-1732645921817;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Objectives
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 738aa343-c757-41ba-b8bc-b38b47dd1454-1732641593604
+  [loading_requirement_container_meta:738aa343-c757-41ba-b8bc-b38b47dd1454-1732641593604] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = ad598dc8-5a83-4d42-9fc8-499b2d23c67d-1732641593604
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -209
+  y = -55
+  width = 100
+  height = 22
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = cd56bd6d-19db-490f-a8b8-72640df56502-1732641593604
+  [loading_requirement_container_meta:cd56bd6d-19db-490f-a8b8-72640df56502-1732641593604] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657
+  [executable_block:9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Story
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657
+  [loading_requirement_container_meta:1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 2d176105-f18d-4de1-b3c8-62eac9ee89fb-1732641638657
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -209
+  y = -31
+  width = 100
+  height = 22
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657
+  [loading_requirement_container_meta:b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657
+  [executable_block:9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Character List
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657
+  [loading_requirement_container_meta:1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = d0eaf82f-d1b3-42a3-9de1-b75fd79ed3df-1732641662107
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -209
+  y = -7
+  width = 100
+  height = 22
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657
+  [loading_requirement_container_meta:b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657
+  [executable_block:9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = POIs
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657
+  [loading_requirement_container_meta:1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = be2892b0-10ff-4491-ad96-9f80ef1eea86-1732642079162
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -209
+  y = 17
+  width = 100
+  height = 22
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657
+  [loading_requirement_container_meta:b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = Hello! Welcome to BETTER-RPG. This is a modpack made by Cvrkus21 meant to be an explorative RPG with your friends.%n%This RPG is meant to be calming, challenging and rewarding, therefore no bosses. (Because idk how to make that)%n%In BRPG, your objective is to collect all 15 relics throughout the given map.%n%To unlock POI locations, you have to explore the whole map. Only then I will give you the POI map.%n%Relics are found or bought. You find them in strongholds or buy them from special merchants.%n%This RPG is inspired by my friend´s modpack which made me work on this. (Thx)%n%If you encountered any bugs, contact me on Discord. My user is cvrkus21.%n%NOTE: This is still a beta build of BRPG. There will be bugs.
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 521a4cf8-a204-4cb5-b1d7-e18f2beebcaf-1732642125916
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -100
+  y = -101
+  width = 256
+  height = 202
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = dce46acc-4b2f-4cd2-8d1e-045e4f65cc5b-1732642125916
+  [loading_requirement_container_meta:dce46acc-4b2f-4cd2-8d1e-045e4f65cc5b-1732642125916] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657
+  [executable_action_instance:f9b5e691-5ff5-4d37-bba2-eea2753a6492-1732642569139][action_type:openlink] = https://discord.gg/WnuXSR46ve
+  [executable_block:9dc76d01-72fe-4189-8c82-9e9c433126a6-1732641638657][type:generic] = [executables:f9b5e691-5ff5-4d37-bba2-eea2753a6492-1732642569139;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Discord
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657
+  [loading_requirement_container_meta:1a1399d7-6084-4b1c-9ddc-d30a7b9f25c8-1732641638657] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 50802717-b4ad-4b8c-8a6e-235ef4eb1f45-1732642434081
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1020
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -98
+  y = 100
+  width = 100
+  height = 22
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657
+  [loading_requirement_container_meta:b62462bd-e0e3-47d5-a762-90fbe99f2e73-1732641638657] = [groups:][instances:]
+}
+

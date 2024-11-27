@@ -1,0 +1,687 @@
+{
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_bricks_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dusk_brick_stairs_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dusk_brick_wall_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-26 20:28:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-11-26 20:28:28 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dusk_brick_slab_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_maple_woods": "2024-11-26 20:28:45 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_wall_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dusk_bricks_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-26 20:28:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dusk_brick_stairs_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_wall": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-26 20:28:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dusk_brick_slab_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_brick_slab_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_brick_stairs_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dusk_brick_wall_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_brick_wall_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_stairs": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2024-11-26 20:28:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dusk_brick_stairs_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dusk_brick_slab_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dusk_brick_wall_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dusk_bricks_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_slab_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-11-26 20:28:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2024-11-26 20:33:30 +0100",
+      "lush_desert": "2024-11-26 20:30:46 +0100",
+      "snowy_maple_woods": "2024-11-26 20:28:45 +0100"
+    },
+    "done": false
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_stairs_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dusk_bricks_from_long_dusk_bricks_stonecutting": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 20:31:04 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dusk_brick_slab": {
+    "criteria": {
+      "has_long_dusk_bricks": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-11-26 20:35:07 +0100",
+      "minecraft:dark_forest": "2024-11-26 20:34:06 +0100",
+      "minecraft:river": "2024-11-26 20:31:10 +0100",
+      "minecraft:stony_shore": "2024-11-26 20:33:22 +0100",
+      "minecraft:desert": "2024-11-26 20:30:26 +0100"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2024-11-26 20:35:43 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
